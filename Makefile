@@ -16,7 +16,7 @@
 #	explode.
 #
 #	Developer:	Luca Malucelli (Cattivik)
-#	Info, C&C:		luca.malucelli@gmail.com
+#	Info, C&C:	luca.malucelli@gmail.com
 #
 #
 #		      +++ Usage instructions +++
